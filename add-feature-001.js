@@ -1,1 +1,1 @@
-Add feature new
+alert('Add feature new')
