@@ -4,3 +4,6 @@ body {
 input {
     color: rgb(255, 0, 132);
 }
+button {
+    color: darkblue;
+}
